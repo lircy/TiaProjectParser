@@ -776,9 +776,9 @@ Ranked by cost:
 ```csharp
 using System;
 using System.Collections.Generic;
-using TiaFileFormat;
-using TiaFileFormat.Wrappers.CodeBlocks.Symbols;
-using TiaFileFormat.Wrappers.Controller;
+using TiaProjectParser;
+using TiaProjectParser.Wrappers.CodeBlocks.Symbols;
+using TiaProjectParser.Wrappers.Controller;
 
 class Program
 {
